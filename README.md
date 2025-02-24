@@ -22,3 +22,30 @@ Para utilizar o copiloto criado, basta seguir os passos abaixo:
 
 ## Conclusão
 Este desafio foi uma excelente oportunidade para aprender e aplicar os conhecimentos sobre o Microsoft Copilot Studio, resultando em um assistente personalizado e eficiente.
+
+Desafio: Entendendo o Desafio
+Objetivo
+O objetivo deste desafio é criar um Copiloto com Fluxo de Conversa Personalizado no Microsoft Copilot Studio.
+
+O que fazer?
+Explore a demonstração:
+
+Assisti à demonstração apresentada no conteúdo prático.
+
+Tomei notas sobre os pontos importantes e o funcionamento do Copilot Studio.
+
+Resumo do aprendizado:
+
+Escreva um resumo do que aprendeu durante a demonstração.
+
+Inclui tópicos como a criação do fluxo de conversa, personalização do agente e uso das funcionalidades do Copilot Studio.
+
+Resumo do Aprendizado
+
+Criação do Copilot: Iniciei um novo projeto criando um Copilot em branco, pronto para ser personalizado conforme as necessidades.
+
+Customização de Tópico: Personalizei um tópico específico dentro do Copilot, ajustando-o para atender melhor às necessidades dos usuários e às intenções da conversa.
+
+Personalização de Mensagem de Erro: Criei uma mensagem de erro personalizada para o tópico, garantindo que os usuários recebessem feedback claro e útil quando algo não saísse como esperado.
+
+Ajuste da Qualidade da Resposta: Utilize o GenAI para ajustar a qualidade das respostas, aumentando ou diminuindo conforme necessário, para proporcionar a melhor experiência possível aos usuários.
